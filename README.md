@@ -48,11 +48,12 @@ Customer-Churn-Analysis/
 ## ▶️ How to Run
 
 1. Clone the repository:git clone https://github.com/Pranjal-dubey49/Customer-Churn-Analysis.git
-2. Open the Jupyter Notebook:
-3. Make sure the dataset CSV is present or use this link to load it directly:
+2. Open the Jupyter Notebook:3. Make sure the dataset CSV is present or use this link to load it directly:
 ```python
 df = pd.read_csv('https://raw.githubusercontent.com/Pranjal-dubey49/Customer-Churn-Analysis/refs/heads/main/WA_Fn-UseC_-Telco-Customer-Churn.csv')
-🧩 Key Insights
+```
+✅ Key Insights
+
 Month-to-month contract users churn more often
 
 Senior citizens show higher churn rates
@@ -62,4 +63,5 @@ Fiber optic users have a higher tendency to churn
 Customers with electronic check as payment method are more likely to churn
 📬 Feedback
 Feel free to raise issues or share your thoughts through pull requests or GitHub discussions.
+
 Project by: Pranjal Dubey
